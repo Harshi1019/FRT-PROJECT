@@ -1,6 +1,6 @@
   ✨ DINOSAUR WORLD ✨
 
-**Project Link** -
+**Project Link** -https://harshi1019.github.io/FRT-PROJECT/
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -31,9 +31,6 @@ g Screenshot (134).png…]()
 
 ### About Us -
 
-
-
-### Services -
 
 
 
