@@ -1,10 +1,5 @@
   ✨ DINOSAUR WORLD ✨
 
-This is a web based application developed for health related based website in india
-
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
-
 **Project Link** -
 **project demo video link** - 
 
@@ -33,16 +28,6 @@ This is a web based application developed for health related based website in in
 ![Screenshot (130)](https://user-images.githubusercontent.com/112065495/204810410-d8add5d4-4a2c-479f-a1ff-21fb3238494c.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/112065495/204810467-673fa9ce-7b65-4ab9-803a-0a1f94c58f22.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/112065495/204810478-7b4b96bc-b935-449f-8e85-9ae63a2ddcf6.png)
-
-
-
-
-
-
-
-
-
-
 
 
 
