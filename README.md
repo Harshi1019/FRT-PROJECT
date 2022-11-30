@@ -1,5 +1,3 @@
-This is Github readme file link. Everyone has to customize their readme file according to their project and insdustry.
-
   ✨ DINOSAUR WORLD ✨
 
 This is a web based application developed for health related based website in india
