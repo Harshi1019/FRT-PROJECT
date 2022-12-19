@@ -6,6 +6,8 @@
 ## Azure technologies used for Project
 
 - Static web apps
+- Web apps
+- Azure Bot Service 
 
 ## Features and Functionalities 😃
 
